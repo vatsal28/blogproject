@@ -1,0 +1,13 @@
+{% load staticfiles %}
+<!doctype html>
+<html>
+<head>
+	<title> Placeholder </title>
+	<link rel="stylesheet" href="{% static 'css/style.css' %}" />
+</head>
+<body>
+	<div class = "boxed">
+		
+	</div>
+</body>
+</html>

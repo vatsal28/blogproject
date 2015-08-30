@@ -1,0 +1,26 @@
+body {
+    background-color: #C0C0C0;
+}
+
+.boxed{
+	overflow: auto;
+	border: 1px #DEB887;
+	border-radius: 25px;
+	background-color: #FFDEAD;
+	height: 50px
+	
+}
+
+.boxed2{
+	
+	margin: -12px
+	overflow:auto;
+	border: 1px green;
+	border-radius: 25px;
+	background-color: green;
+	height: 550px  
+
+}
+
+
+
